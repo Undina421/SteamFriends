@@ -6,7 +6,6 @@
 
 | Avatar                                                                            | Name                  | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:----------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/b7d3df801087aa1996b01bbb9b0d1c3018e7f4d6.jpg) | 蜂蜜檸檬                  | [76561199123442332](https://steamcommunity.com/profiles/76561199123442332/) | ❌           | 2024-11-07 03:47:04 |          | 2025-07-29 19:55:04 |
 | ![](https://avatars.steamstatic.com/c3a73253f193e17bf2a23a564e7aa9b09195de2d.jpg) | qqrs0517              | [76561198093960099](https://steamcommunity.com/profiles/76561198093960099/) | ✅           | 2024-04-12 03:54:39 |          |                     |
 | ![](https://avatars.steamstatic.com/1893d7c151ac71f1182e4097df5072dbfd996d6c.jpg) | tin                   | [76561197963284341](https://steamcommunity.com/profiles/76561197963284341/) | ✅           | 2024-07-04 10:11:55 |          |                     |
 | ![](https://avatars.steamstatic.com/05c3c7a2823d3ab42ff1d09e85e35ad24a9fca0b.jpg) | WindyTales            | [76561198005110508](https://steamcommunity.com/profiles/76561198005110508/) | ✅           | 2025-03-04 08:21:19 |          |                     |
